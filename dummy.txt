@@ -1,2 +1,7 @@
 this is dummy
+<<<<<<< Updated upstream
 this is not dummy
+=======
+im working
+
+>>>>>>> Stashed changes
